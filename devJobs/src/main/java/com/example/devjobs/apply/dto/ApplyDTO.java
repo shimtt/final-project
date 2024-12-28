@@ -15,7 +15,7 @@ public class ApplyDTO {
 
     private Integer jobCode; // 구인공고 코드(jobposting PK)
 
-    private String applyStatus; // 지원 상태
+    private String applyStatus; // 지원상태
 
     private Integer resumeCode; // 이력서 코드(resume PK)
 
