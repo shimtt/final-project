@@ -7,7 +7,7 @@ const Footer = () => {
         <FooterSection>
           <SectionTitle>DevJobs</SectionTitle>
           <Description>
-            IT 업계 전문 채용 플랫폼으로,<br />
+            IT 업계 전문 채용 플랫폼으로, <br />
             기업과 인재를 연결하는 최적의 솔루션을 제공합니다.
           </Description>
           <div style={{ marginTop: '0.1rem', color: '#4a90e2', fontSize: '0.9rem', fontStyle: 'italic' }}>
