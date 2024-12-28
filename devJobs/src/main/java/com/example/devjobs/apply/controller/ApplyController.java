@@ -165,6 +165,7 @@ public class ApplyController {
         result.put("finalApplications", finalTotal);
 
         return ResponseEntity.ok(result);
+        // o
     }
 
 }
